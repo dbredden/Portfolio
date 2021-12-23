@@ -1,0 +1,37 @@
+.contact {
+    height: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    display: inline-block !important;
+}
+
+#SkillSection {
+    height: 650px;
+}
+
+#About {
+    height: 650px;
+    margin-top: 50px;
+}
+
+#AboutHeader {
+    margin-bottom: 30px;
+}
+
+#SKillList {
+    margin-top: 50px;
+}
+
+.projects {
+    height: 450px !important;
+    margin-top: 40px;
+}
+
+.container {
+    justify-content: center;
+}
