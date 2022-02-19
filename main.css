@@ -2,6 +2,10 @@
     height: auto;
 }
 
+.nav-link {
+    color: white !important;
+}
+
 h2 {
     text-align: center;
 }
